@@ -104,5 +104,5 @@ KEYMAPS = {
   },
 }
 
-DICTIONARIES_ROOT = "asset:plover_tregg:dictionaries"
+DICTIONARIES_ROOT = "asset:StenoThaip:dictionaries"
 DEFAULT_DICTIONARIES = []
