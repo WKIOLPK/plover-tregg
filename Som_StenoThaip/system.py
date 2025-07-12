@@ -104,5 +104,5 @@ KEYMAPS = {
   },
 }
 
-DICTIONARIES_ROOT = "asset:StenoThaip:dictionaries"
+DICTIONARIES_ROOT = "asset:Som_StenoThaip:dictionaries"
 DEFAULT_DICTIONARIES = []

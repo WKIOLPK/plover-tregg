@@ -1,5 +1,5 @@
 [project]
-name = "plover-StenoThaip"
+name = "plover-Som_StenoThaip"
 version = "1.0.0"
 description = "Thai steno system plugin for Plover"
 readme = "README.md"
@@ -20,10 +20,10 @@ repository = "https://github.com/sammdot/plover-tregg"
 homepage = "https://github.com/sammdot/plover-tregg"
 
 [tool.setuptools]
-packages = ["StenoThaip"]
+packages = ["Som_StenoThaip"]
 
 [build-system]
 requires = ["setuptools >= 61.0.0", "wheel"]
 
 [project.entry-points."plover.system"]
-Thaip = "StenoThaip.system"
+Som_StenoThaip = "Som_StenoThaip.system"
