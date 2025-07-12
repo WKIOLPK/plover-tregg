@@ -1,5 +1,5 @@
 [project]
-name = "plover-Som_StenoThaip"
+name = "plover-Thaip"
 version = "1.0.0"
 description = "Thai steno system plugin for Plover"
 readme = "README.md"
